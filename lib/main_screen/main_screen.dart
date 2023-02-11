@@ -40,8 +40,8 @@ class _MainScreenBodyState extends State<MainScreenBody> {
 
     double longitude = invLatitude * pi / 180.0;
     double latitude = invLongitude * pi / 180.0;
-    int r = 6378137;
-    double e = 0.0818191908426;
+    const r = 6378137;
+    const e = 0.0818191908426;
     var esinLat = e * sin(latitude);
 
     var tanTemp = tan(pi / 4 + latitude / 2);
