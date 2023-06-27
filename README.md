@@ -1,16 +1,6 @@
-# test_geo
+# Тестовое задание
 
-A new Flutter project.
+Работа с преобразованиями координат и тайлами яндекс карт. 
+Экран для веба: https://test-geoservice.web.app/
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![geo](https://github.com/nikero72/test_geo/assets/123304698/bc49a84d-3667-4f4c-bb15-79dba84f19a8)
